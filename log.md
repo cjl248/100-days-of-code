@@ -1,17 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 11, 2020
+<br>
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress:** Worked on figuring out how to scroll to the top of a component when a user clicks on it.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Took me a long time to get refs working and learned that you can't use them on functional components. It was new for me and I feel good about learning more about how React works.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Calabria Pizza] (https://github.com/cjl248/calabria-pizza-frontend) (Private Repository)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
+<!--
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
@@ -28,3 +27,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
